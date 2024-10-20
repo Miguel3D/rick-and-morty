@@ -12,13 +12,15 @@ export const metadata: Metadata = {
   description:
     "Explora la lista de personajes de la serie Rick and Morty. Filtra por nombre, estado, especie y género, y disfruta de la paginación para navegar por los personajes.",
   keywords: "Rick and Morty, personajes",
-  authors: [{ name: "Miguel Moreno", url: "https://tu-sitio-web.com" }],
+  authors: [
+    { name: "Miguel Moreno", url: "https://rick-and-morty-m.vercel.app/" },
+  ],
   creator: "Miguel Moreno",
   openGraph: {
     title: "Rick and Morty",
     description:
       "Explora la lista de personajes de la serie Rick and Morty. Filtra por nombre, estado, especie y género.",
-    url: "https://tu-sitio-web.com",
+    url: "https://rick-and-morty-m.vercel.app/",
     siteName: "Rick and Morty",
     images: [
       {
