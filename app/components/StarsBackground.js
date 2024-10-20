@@ -70,12 +70,7 @@ const StarsBackground = () => {
     };
   }, [stars]);
 
-  return (
-    <canvas
-      ref={canvasRef}
-      style={{ position: "fixed", top: 0, left: 0, zIndex: 0 }}
-    />
-  );
+  return <canvas className="fixed left-0 top-0 z-0" ref={canvasRef} />;
 };
 
 export default StarsBackground;
