@@ -23,3 +23,7 @@ Este es un proyecto de **Next.js** que consume la API de [Rick and Morty](https:
     git clone https://github.com/Miguel3D/rick-and-morty
     cd rick-and-morty-characters
 ```
+
+## Página web
+
+URL:https://rick-and-morty-m.vercel.app/
