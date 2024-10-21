@@ -19,7 +19,7 @@ const CharacterFilters: React.FC<CharacterFiltersProps> = ({
   onResetFilters,
 }) => {
   return (
-    <div className="my-4 w-full justify-start space-x-3">
+    <div className="my-4 grid w-full grid-cols-2 justify-start gap-3 md:grid-cols-3 lg:grid-cols-5">
       <input
         type="text"
         name="name"

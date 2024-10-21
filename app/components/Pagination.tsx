@@ -124,9 +124,9 @@ const Pagination: React.FC<PaginationProps> = ({
           </svg>
         </button>
       </div>
-      <span className="text-sm text-gray-200">
+      {/* <span className="text-sm text-gray-200">
         Página {currentPage} de {totalPages}
-      </span>
+      </span> */}
     </div>
   );
 };
