@@ -21,7 +21,7 @@ Este es un proyecto de **Next.js** que consume la API de [Rick and Morty](https:
 
 ```bash
     git clone https://github.com/Miguel3D/rick-and-morty
-    cd rick-and-morty-characters
+    cd rick-and-morty
 ```
 
 ## Página web
